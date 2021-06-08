@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+# Tom's Github Page
 
-You can use the [editor on GitHub](https://github.com/TomShen1234/tomshen1234.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This page will be used to keep track of my apps and my projects! New apps will be added to the top.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## fpcode
 
-### Markdown
+`fpcode` is an app that allows you to create flowcharts and run them. It also supports generation of a trace table (ie. performing white-box testing).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Codwpad
 
-```markdown
-Syntax highlighted code block
+Codepad is a notepad app, but for storing codes. It supports some basic IDE features like syntax highlighting and auto-indent.
 
-# Header 1
-## Header 2
-### Header 3
+## PoemGame
 
-- Bulleted
-- List
+This game allows you to practice your Chinese poem by selecting the correct box falling from the sky to fill in the train. 
 
-1. Numbered
-2. List
+## OCR Translator
 
-**Bold** and _Italic_ and `Code` text
+This app allows you to take a picture of a text and it will translate it to another language. 
 
-[Link](url) and ![Image](src)
-```
+## TJPhotoEditor
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+My first app (still here for nostalgic purpose). Simple photo editor. 
 
-### Jekyll Themes
+## RocketStarCollector
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TomShen1234/tomshen1234.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+My first SpriteKit game (still here for nostalgic purpose). Collect stars using your rocket and avoid bombs. 
 
-### Support or Contact
+Screenshots coming soon
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+---
+
+If you have any problem, you can contact me at tomshen2004 (at) icloud.com
