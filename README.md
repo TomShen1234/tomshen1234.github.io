@@ -38,7 +38,7 @@ My first app. Simple photo editor. ([View on Github](https://github.com/TomShen1
 
 ### [RocketStarCollector](https://apps.apple.com/us/app/rocket-stars-collector/id984957362)
 
-My first SpriteKit game. Collect stars using your rocket and avoid bombs. This app is inspired by [Ray Wenderlich](https://www.raywenderlich.com)'s iOS Game By Tutorial. ([View on Github])(https://github.com/TomShen1234/CollectTheStars)
+My first SpriteKit game. Collect stars using your rocket and avoid bombs. This app is inspired by [Ray Wenderlich](https://www.raywenderlich.com)'s iOS Game By Tutorial. ([View on Github](https://github.com/TomShen1234/CollectTheStars))
 
 ---
 
