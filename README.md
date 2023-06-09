@@ -8,7 +8,9 @@ This page will be used to keep track of my apps and my projects! New apps will b
 
 `fpcode` is an app that allows you to create flowcharts and run them. It also supports generation of a trace table (ie. performing white-box testing).
 
-### [Codepad](https://apps.apple.com/cn/app/codepad-code-notepad/id1551530363?l=en&mt=12)
+### Swiftynote (WIP)
+
+Rebranded, new version of Codepad. Will be provided as separate app instead of the original because the entire app is re-architectured. It is currently under development.
 
 Codepad is a notepad app, but for storing codes. It supports some basic IDE features like syntax highlighting and auto-indent.
 
